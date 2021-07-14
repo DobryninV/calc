@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: linear-gradient(to right, #00c1d8, #00ec90);
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.calc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 400px;
+  width: 270px;
+  background-color: aliceblue;
+}
