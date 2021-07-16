@@ -1,7 +1,7 @@
 import React from "react";
 import Display from "../display";
 import Keyboard from "../keyboard";
-import CalcStore from "../../store/calcWithEval";
+import CalcStore from "../../store/calc";
 
 import "./app.css"
 
